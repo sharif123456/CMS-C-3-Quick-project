@@ -39,8 +39,10 @@ font-family: 'Open Sans', sans-serif;
     width: 582px;
 }
 
-.success-section{ margin-top: 71px;}
-.success-section .container{width: 670px;}
+.success-section{
+    margin-top: 71px;}
+.success-section .container{
+    width: 670px;}
 .success-section .left{
     text-align: end;
 }
