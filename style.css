@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+*{box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+.navbar-nav .nav-item .nav-link{
+    padding-left: 10px!important;
+    font-size: 14px;
+    padding-right: 26px!important;
+    font-weight: 300;
+}
+.navbar{
+    box-shadow: -1px 1px 0px 0px #00000036;
+}
+.top-section{
+    margin-top: 50px;
+    text-align: center;
+}
+.top-section h1{
+    text-align: center;
+    font-size: 46px;
+    line-height: 1.4;
+}
+.top-section h1 span{
+    color: #008aff;
+}
+.top-section p{
+    text-align: center;
+}
+.top-section img{
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    width: 582px;
+}
+
+.success-section{}
+.success-section .container{width: 670px;}
+.success-section .left{
+    text-align: end;
+}
+ .left h1{
+    color: red;
+    font-weight: 800;
+}
+.left p{}
+.right h1{
+    color: #112857;
+}
+
+.creativity-section{
+    margin-top: 87px;
+}
+.creativity{height: 349px;padding: 50px;}
+.creativity img{
+    max-width: 78%;
+}
+.creativity h1{
+    font-size: 17px;
+    padding-top: 15px;
+}
+.creativity p{
+    font-size: 15px;
+}
+.pink{
+    background: #fdebed;
+}
+.green{
+    background-color: #ebf9f4;
+}
+.yellow{
+    background: #fff7e8;
+}
+footer{
+    text-align: center;
+    background: #008AFF;
+    margin-bottom: -18px;
+    /* padding: 12px 0px; */
+}
+footer p{padding: 18px 0px;color: #78BEFF;}
+footer p span{
+    color: #fbfcff;
+    font-weight: 600;
+}
